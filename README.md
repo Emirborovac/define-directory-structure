@@ -26,7 +26,7 @@ The **Directory Structure Analyzer** is a Python script designed to simplify the
 2. Replace the `root_directory` variable in the script with the path to your project.
 3. Run the script using Python:
    ```bash
-   python directory_structure_analyzer.py
+   python navigate.py
    ```
 4. The script will print a tree-like structure representing your directory layout.
 
