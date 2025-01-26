@@ -86,33 +86,4 @@ Node/
 
 ---
 
-## Contributing
-We welcome contributions! Feel free to fork the repository, add improvements, and submit a pull request. For any issues, create a ticket in the GitHub repository.
 
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Links
-- GitHub Repository: [Directory Structure Analyzer](https://github.com/yourusername/directory-structure-analyzer)
-- LinkedIn Post: [Share Your Feedback!](https://linkedin.com)
-
----
-
-# LinkedIn Post
-🚀 **Boost Your Productivity with the Directory Structure Analyzer!**
-
-Are you setting up a new project? Want to ensure your directory structure is on point? Check out my latest Python script: the **Directory Structure Analyzer**! 🎉
-
-✅ **Verify Your Project Structure**: Compare your directories and files with the expected template.
-✅ **Share and Collaborate**: Easily share your structure with teammates or paste it into tools like ChatGPT to get insights.
-✅ **Learn Best Practices**: Understand how professional projects are organized.
-
-💻 **GitHub Repository**: [Directory Structure Analyzer](https://github.com/yourusername/directory-structure-analyzer)
-
-👉 Perfect for beginners and pros alike. Test it out and let me know your thoughts!
-
-#Python #Beginners #Productivity #OpenSource
